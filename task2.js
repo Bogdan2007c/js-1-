@@ -1,0 +1,10 @@
+let x = 22;
+let k = 44;
+let b = 66;
+let d = 88;
+let a = 110;
+const NUM = x + k;
+const DOLAR_COURSE_FUTURE = a - k;
+const BORDER_OUTSIDE = b / x;
+const VALUME_HOUSE = x * a;
+const JAVA_POPULAR = a * a * a * a * a * a * a * a * a * a * a;
